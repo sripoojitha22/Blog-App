@@ -5,9 +5,9 @@ Content-Type: application/json
 
 {
     "userType":"user",
-    "username":"ravi",
-    "password":"ravi",
-    "email":"ravi@mail.com"
+    "username":"pooji",
+    "password":"pooji",
+    "email":"pooji@mail.com"
 }
 
 
@@ -17,8 +17,8 @@ Content-Type: application/json
 
 {
     "userType":"user",
-    "username":"ravi",
-    "password":"ravi"
+    "username":"pooji",
+    "password":"pooji"
    
 }
 
@@ -32,8 +32,8 @@ Content-Type: application/json
 
 {
    
-    "username":"ravi",
-    "comment":"Amazing content"
+    "username":"pooji",
+    "comment":"blog app"
    
 }
 
